@@ -1,4 +1,4 @@
-# NumpyLaMerci
+# LaMerciNumpy
 
 Vous trouverez des cours, exercices résolus et exercices d'entrainement sur les principales compétences numériques en CPGE, 1ère année:
 
@@ -10,4 +10,4 @@ Vous trouverez des cours, exercices résolus et exercices d'entrainement sur les
 
 - Résolution approchée des équations algébriques (méthode dichotomique)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fkiaru/NumpyLaMerci/HEAD?filepath=CompetencesNumeriques.ipynb)# LaMerciNumpy
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fkiaru/LaMerciNumpy/HEAD?filepath=CompetencesNumeriques.ipynb)# LaMerciNumpy
