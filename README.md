@@ -11,4 +11,3 @@ Vous trouverez des cours, exercices résolus et exercices d'entrainement sur les
 - Résolution approchée des équations algébriques (méthode dichotomique)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fkiaru/LaMerciNumpy/HEAD?filepath=CompetencesNumeriques.ipynb)# LaMerciNumpy
-# LaMerciInfoMP
