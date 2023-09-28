@@ -1,4 +1,4 @@
-# LaMerciNumpy
+# LaMerciNumpy 2023
 
 Vous trouverez des cours, exercices résolus et exercices d'entrainement sur les principales compétences numériques en CPGE, 1ère année:
 
